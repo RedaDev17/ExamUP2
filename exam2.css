@@ -1,0 +1,99 @@
+.img_arte {
+    position: absolute;
+    left: 50px;
+    top: 50px;
+}
+
+.jumbotron {
+    background-image: url("arte.jpeg");
+    background-size: cover;
+    height: 300px;
+    color: aliceblue;
+}
+
+.firstBox {
+    position: absolute;
+    left: 150px;
+    top: 400px;
+}
+
+.secondBox {
+    position: absolute;
+    left: 850px;
+    top: 550px;
+}
+
+.thirdBox {
+    position: absolute;
+    left: 150px;
+    top: 680px;
+}
+
+
+
+.titlestyle {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    position: fixed;
+    left: 340px;
+    top: 450px;
+}
+
+.artpic1 {
+    position: absolute;
+    left: 180px;
+    top: 450px;
+}
+
+.buttonstyle {
+    position: fixed;
+    left: 340px;
+    top: 500px;
+}
+
+
+
+.titlestyle2 {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    position: fixed;
+    left: 1060px;
+    top: 600px;
+}
+
+.artpic2 {
+    position: absolute;
+    left: 875px;
+    top: 600px;
+}
+
+.buttonstyle2 {
+    position: fixed;
+    left: 1060px;
+    top: 650px;
+}
+
+
+
+.titlestyle3 {
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 16px;
+    position: fixed;
+    left: 340px;
+    top: 735px;
+}
+
+.artpic3 {
+    position: absolute;
+    left: 180px;
+    top: 735px;
+}
+
+.buttonstyle3 {
+    position: fixed;
+    left: 340px;
+    top: 790px;
+}
